@@ -52,8 +52,11 @@ I’m passionate about connecting hardware, software, and intelligence through a
 ### 📊 GitHub Stats
 ![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshi-shetty123&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi-shetty123&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harshi-shetty123&theme=radical)
 
 ---
 
 ### 📫 Connect With Me  
-🌐 [LinkedIn](#) | 💻 [GitHub](https://github.com/Harshi-shetty123) | ✉️ harshithashetty@example.com
+🌐 [LinkedIn](https://www.linkedin.com/in/harshitashetty1234/)  
+💻 [GitHub](https://github.com/Harshi-shetty123)  
+✉️ harshithashetty@example.com
