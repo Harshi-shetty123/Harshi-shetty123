@@ -9,12 +9,24 @@ I’m passionate about connecting hardware, software, and intelligence through a
 ---
 
 ### 🛠️ Tech Stack
-💻 **Languages:** Python, JavaScript 
-🌐 **Frontend:** HTML, CSS, React (learning) 
-🤖 **Automation:** Selenium, MQTT, WebSockets   
-🧠 **AI:** OpenAI API   
-🗄️ **Database:** PostgreSQL, SQLite    
-🧰 **Tools:** Git, VS Code, Docker, Postman, Hopscotch, PyCharm, Arduino IDE  ,Antigravity
+
+**💻 Languages:**  
+Python • JavaScript  
+
+**🌐 Frontend:**  
+HTML • CSS • React *(currently learning)*  
+
+**🤖 Automation & Communication:**  
+Selenium • MQTT • WebSockets  
+
+**🧠 AI & Integrations:**  
+OpenAI API  
+
+**🗄️ Databases:**  
+PostgreSQL • SQLite  
+
+**🧰 Tools & Platforms:**  
+Git • VS Code • Docker • Postman • Hoppscotch • PyCharm • Arduino IDE • Antigravity  
 
 ---
 
