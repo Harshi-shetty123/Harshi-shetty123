@@ -20,10 +20,10 @@ HTML • CSS • React *(currently learning)*
 Selenium • MQTT • WebSockets  
 
 **🧠 AI & Integrations:**  
-OpenAI API  
+OpenAI API (Currently learning)
 
 **🗄️ Databases:**  
-PostgreSQL • SQLite  
+PostgreSQL  
 
 **🧰 Tools & Platforms:**  
 Git • VS Code • Docker • Postman • Hoppscotch • PyCharm • Arduino IDE • Antigravity  
